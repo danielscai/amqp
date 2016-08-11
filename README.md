@@ -1,5 +1,6 @@
 # AMQP
 
+.
 AMQP 0.9.1 client with RabbitMQ extensions in Go.
 
 # Status
